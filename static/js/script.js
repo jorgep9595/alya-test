@@ -3,9 +3,10 @@ var LANGUAGES = {
     "es": {
         audioList: [
             // TODO audio random weight
-            "audio/es/es_1.mp3",
-            "audio/es/es_2.mp3",
-            "audio/es/es_3.mp3"
+            "audio/es/esj_1.mp3",
+            "audio/es/esj_2.mp3",
+            "audio/es/esj_3.mp3",
+            "audio/es/esj_4.mp3"
         ],
         texts: {
             "page-title": "Bienvenidos a Alya kuru~ de Tanooki Boss",
